@@ -1,6 +1,6 @@
 **#66DaysofData**
 
-66DaysofData with Ken Jee. On Machine Learning experience and discovery. Please see my Day #1 introduction. 
+66 Days of Data with Ken Jee. On Machine Learning experience and discovery. Please see my Day #1 introduction. 
 
 **DAY #1**
 https://bit.ly/2R57Flr
