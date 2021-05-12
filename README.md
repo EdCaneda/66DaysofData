@@ -8,7 +8,8 @@ https://bit.ly/2R57Flr
 <img src="https://github.com/EdCaneda/66DaysofData/blob/main/Images_Folder/LinkedIn/LinkedIn_Day%231.png" width="500px" height="auto"> 
 <iframe src="https://www.youtube.com/embed/qV_AlRwhI3I?start=105">
   
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=qV_AlRwhI3I&t=105s)
+https://www.youtube.com/watch?v=qV_AlRwhI3I&t=105s
 https://www.kennethjee.com/66daysofdata
 
 **DAY #2, #3**
