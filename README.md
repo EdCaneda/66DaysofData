@@ -5,10 +5,14 @@
 **DAY #1**
 https://bit.ly/2R57Flr
 
-<img src="https://github.com/EdCaneda/66DaysofData/blob/main/Images_Folder/LinkedIn/LinkedIn_Day%231.png" width="500px" height="auto">   
+<img src="https://github.com/EdCaneda/66DaysofData/blob/main/Images_Folder/LinkedIn/LinkedIn_Day%231.png" width="500px" height="auto">    https://www.kennethjee.com/66daysofdata 
+
 [![Watch the video](https://github.com/EdCaneda/66DaysofData/blob/main/Images_Folder/Other_Screenshots/KenJee_website.png)](https://www.youtube.com/watch?v=qV_AlRwhI3I&t=105s)
-https://www.kennethjee.com/66daysofdata
-https://github.com/EdCaneda/66DaysofData/blob/main/Images_Folder/Other_Screenshots/KenJee_website.png
+
+
+
+
+
 **DAY #2, #3**
 https://bit.ly/3hyuQ2n
 
