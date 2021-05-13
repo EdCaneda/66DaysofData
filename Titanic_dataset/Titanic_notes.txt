@@ -2,4 +2,4 @@
 Link: https://sololearn.com/uploads/files/titanic.csv
 
 Reading Data with Pandas
-img src='https://github.com/EdCaneda/66DaysofData/blob/main/Titanic_dataset/ReadingDatawithPandas.ipynb'
+https://github.com/EdCaneda/66DaysofData/blob/main/Titanic_dataset/ReadingDatawithPandas.ipynb
