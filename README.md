@@ -18,6 +18,7 @@ https://bit.ly/3hyuQ2n
 
 <img src="https://github.com/EdCaneda/66DaysofData/blob/b1ed63db826e37e224bc0ef6bd9219aa87f06506/Images_Folder/LinkedIn/LinkedIn_Day%232%2C3.png"  width="500px" height="auto">
 
+<img src="https://github.com/EdCaneda/66DaysofData/blob/main/Titanic_dataset/ReadingDatawithPandas.ipynb">
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **DAY #4, #5, #6**
 https://bit.ly/3tGSuvQ
